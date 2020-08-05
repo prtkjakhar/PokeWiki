@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/PokeWiki/static/css/main.a579ece5.chunk.css",
+    "main.js": "/PokeWiki/static/js/main.dde52ebd.chunk.js",
+    "main.js.map": "/PokeWiki/static/js/main.dde52ebd.chunk.js.map",
+    "runtime-main.js": "/PokeWiki/static/js/runtime-main.ad5bc699.js",
+    "runtime-main.js.map": "/PokeWiki/static/js/runtime-main.ad5bc699.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/PokeWiki/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.9d162c37.chunk.js": "/PokeWiki/static/js/2.9d162c37.chunk.js",
+    "static/js/2.9d162c37.chunk.js.map": "/PokeWiki/static/js/2.9d162c37.chunk.js.map",
+    "index.html": "/PokeWiki/index.html",
+    "precache-manifest.463c43ecf19f27c9f4cc1253f6c93658.js": "/PokeWiki/precache-manifest.463c43ecf19f27c9f4cc1253f6c93658.js",
+    "service-worker.js": "/PokeWiki/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/PokeWiki/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.a579ece5.chunk.css.map": "/PokeWiki/static/css/main.a579ece5.chunk.css.map",
+    "static/js/2.9d162c37.chunk.js.LICENSE.txt": "/PokeWiki/static/js/2.9d162c37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad5bc699.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.9d162c37.chunk.js",
+    "static/css/main.a579ece5.chunk.css",
+    "static/js/main.dde52ebd.chunk.js"
+  ]
+}
